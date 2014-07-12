@@ -112,6 +112,16 @@ body{
 	-moz-text-shadow: 0px 0px 5px #474747;
 	-o-text-shadow: 0px 0px 5px #474747;
 }
+.header-welcome-note p {
+	color: #FFF;
+	font-family: 'pt_sansbold';
+	line-height: 1.2em;
+	margin: 2.5em 0 1em;
+	text-shadow: 0px 0px 5px #474747;
+	-webkit-text-shadow: 0px 0px 5px #474747;
+	-moz-text-shadow: 0px 0px 5px #474747;
+	-o-text-shadow: 0px 0px 5px #474747;
+}
 .header-welcome-note a{
 	color: #fff;
 	font-family: 'pt_sansbold';
@@ -643,6 +653,17 @@ a.boxclose{
 	background: url(../images/people-say-bg.jpg) no-repeat 0px 0px;
 	background-size: 100% 100%;
 }
+.test-monials-grids h2{
+font-size: 2em;
+color: #fff;
+font-family: 'pt_sansbold';
+}
+.test-monials-grids h2 span {
+height: 3px;
+width: 2.5%;
+background: #E8432E;
+display: block;
+}
 .test-monials {
 	background: rgba(245, 245, 245, 0.34);
 	border-bottom: 1px solid rgba(54, 59, 63, 0.07);
@@ -715,7 +736,7 @@ a.boxclose{
     padding: 0;
 }
 .slider .inner p{
-    padding: 1.5em 1em;
+    padding: 1.5em 0em;
 	height: 80%;
 	width: 100%;
 	font-size: 1.2em;
@@ -733,7 +754,7 @@ a.boxclose{
 	padding-top:0em;
 }
 .test-auther p a{
-	font-size: 0.9em;
+	font-size: 1.9em;
 	color: #FFFFFF;
 	font-family: 'pt_sansregular';
 	text-align: center;
@@ -833,8 +854,8 @@ a.boxclose{
 	padding: 0 3% 0 1%;
 }
 .get-intouch-right-social{
-	float: right;
-	width: 6%;
+	float: left;
+	width: 10%;
 	text-align: center;
 	margin-top: 2em;
 }
@@ -896,7 +917,7 @@ a.boxclose{
 	color:#E8432E;
 }
 .get-intouch-right-social ul li{
-	display:block;
+	display:block;float: left;
 }
 .get-intouch-right-social ul li a{
 	width:32px;
