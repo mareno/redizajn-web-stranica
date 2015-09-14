@@ -2,5 +2,3 @@ markdown: redcarpet
 baseurl: /redizajn-web-stranica
 exclude: ['README.md' , 'fileexample.html']
 permalink: pretty
-include:
-  - .nojekyll
