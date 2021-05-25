@@ -80,3 +80,8 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM    
