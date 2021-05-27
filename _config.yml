@@ -4,7 +4,7 @@ author: GitHub User # You :P
 description: > # Meta description of Homepage
   Mi dizajniramo i izrađujemo lijepe web stranice koje rade za vas,
   vaše posjetitelje i vaše poslovanje. I to je ono što je doista važno.
-baseurl: "/sleek" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://janczizikow.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
