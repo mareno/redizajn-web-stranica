@@ -10,12 +10,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 social:
   name: Your Name
   links:
-    - https://twitter.com/BenBalter
-    - https://www.facebook.com/ben.balter
-    - https://www.linkedin.com/in/BenBalter
-    - https://plus.google.com/+BenBalter
-    - https://github.com/benbalter
-    - https://keybase.io/benbalter
+    - https://twitter.com/mareno_dizajn
+    - https://www.facebook.com/mareno.dizajn
+    - https://github.com/mareno
 
 # THEME SETTINGS
 navigation: # Navigation links
@@ -30,9 +27,9 @@ hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/
 
 email: your-email@domain.com # email for form submission
 
-twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
-github_username:  janczizikow # replace with your_github_username or comment to remove link from footer
-instagram_username: shanlongjj # replace with your_instagram_username or comment to remove link from footer
+twitter_username: mareno_dizajn # replace with your_twitter_username or comment to remove link from footer
+github_username:  mareno # replace with your_github_username or comment to remove link from footer
+instagram_username: mareno.dizajn # replace with your_instagram_username or comment to remove link from footer
 
 disqus:
   shortname: janczizikow # to enable comments replace with your_disqus_shortname
