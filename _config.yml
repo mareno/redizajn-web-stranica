@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-title: Mareno redizajn web stranica Web dizajn koji donosi rezultate. # your site title
+title: Web dizajn koji donosi rezultate. # your site title
 author: GitHub User # You :P
 description: > # Meta description of Homepage
   Mi dizajniramo i izrađujemo lijepe web stranice koje rade za vas, vaše posjetitelje i vaše poslovanje. I to je ono što je doista važno.
@@ -24,7 +24,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  Modern Jekyll theme focused on speed performance &amp; SEO best practices
+  Mi dizajniramo i izrađujemo lijepe web stranice koje rade za vas, vaše posjetitelje i vaše poslovanje. I to je ono što je doista važno.
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
