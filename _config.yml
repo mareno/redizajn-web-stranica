@@ -1,0 +1,87 @@
+title: Mareno Redizajn web stranica
+baseurl: /
+permalink: '/:title/'
+collections:
+  posts:
+    permalink: '/posts/:title/'
+color_scheme: light
+accent_color: pink
+header:
+  title: Mareno
+  has_nav: true
+  nav_links:
+    - label: Home
+      url: /
+      style: link
+    - label: Portfolio
+      url: /portfolio/
+      style: link
+    - label: Blog
+      url: /blog/
+      style: link
+    - label: Style Guide
+      url: /style-guide/
+      style: link
+    - label: About
+      url: /about/
+      style: link
+    - label: Contact
+      url: /contact/
+      style: link
+footer:
+  content: >-
+    &copy; Mareno. All rights reserved. This website was created with <a
+    href="https://marenodizajn.com/dizajn-web-stranica/redizajn-web-stranica/" target="_blank">Redizajn web stranica</a>. Create yours <a
+    href="https://marenodizajn.com/izrada-web-stranica/"
+    target="_blank">now</a>
+  has_social: true
+  social_links:
+    - label: Twitter
+      url: 'https://twitter.com/mareno_dizajn'
+      style: icon
+      icon: twitter
+      new_window: true
+    - label: Instagram
+      url: 'https://www.instagram.com/mareno.dizajn'
+      style: icon
+      icon: instagram
+      new_window: true
+    - label: Facebook
+      url: 'https://www.facebook.com/mareno.dizajn'
+      style: icon
+      icon: facebook
+      new_window: true
+    - label: Youtube
+      url: 'https://www.youtube.com/user/GrtMareno'
+      style: icon
+      icon: youtube
+      new_window: true
+    - label: Vimeo
+      url: 'https://vimeo.com/user10889205'
+      style: icon
+      icon: vimeo
+      new_window: true
+sass:
+  indentWidth: 4
+  style: nested
+  precision: 10
+plugins:
+  - jekyll-menus
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - LICENSE.md
+  - README.md
+  - netlify.toml
+  - stackbit-build.sh
+  - stackbit-pull.js
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM    
